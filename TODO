@@ -1,0 +1,10 @@
+Add support for including custom headers and footers to over-rise the buill-in
+headers/footers. This would allow for easier integration into most sites.
+
+Add built-in default CSS theme and the ability to easily over-ride it with a custom one.
+
+Add page generation timer support.
+
+Overhaul commenting to vim style commenting to allow folding for easier code management.
+
+Add MultiViews support and overhaul to use clean URLS.

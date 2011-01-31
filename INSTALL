@@ -1,0 +1,14 @@
+REQUIREMENTS:
+
+ * Apache 2+ Web server
+
+ * PHP5 Support
+
+INSTALLATION:
+
+ 1. Edit settings in eggweblog.php to your liking.
+
+ 2. Place eggweblog.php somewhere on the root of your public html directory.
+    (more flexibility in this area coming soon)
+
+ 3. Open file in web browser, and enjoy :-)

@@ -1,0 +1,29 @@
+	EggWeblog 0.3 <http://github.com/lrvick/eggweblog/>
+
+WHAT IS EGGWEBLOG?
+
+    A simple PHP solution for viewing EggDrop IRC logs on the web.
+
+	Just edit to suit your preferences then upload it to a web-acessable folder
+	containing the EggDrop logs for the IRC channel you want it to tack and you
+	are	you are up and running.
+
+	Can also be easily integrated into an existing website.
+
+CURRENT FEATURES:
+
+ * The ability to search logs for a givne word or phrase and display paginated
+   results
+
+ * Easily view logs for any given date.
+
+ * Isolates usernames and links usernames to easily click and view all logs for
+   a given user.
+
+ * Totally W3C HTML4.0-Strict standards compliant.
+
+ * All elements use CSS simple ids/classes for easy theming.
+
+NOTES
+
+  See INSTALL file for up-to-date requirements and installation instructions.
